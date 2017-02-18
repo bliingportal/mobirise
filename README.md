@@ -1,4 +1,4 @@
-# Bliing, BliingPortla Mobirise
+# Bliing, Bliing Portlal Mobirise
 ## Press Release 2017.02.18 11:27 CST
 
 # GitHub Pages
