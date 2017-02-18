@@ -145,10 +145,15 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fac51c"
+              "color": "#cccccc",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "72px"
             },
             ".mbr-section-lead": {
-              "color": "#fac51c"
+              "color": "#c1c1c1",
+              "font-size": "18px",
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -175,7 +180,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Bliing...",
+          "title": "bliing",
           "text": "www.bliingportal.github.io",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
@@ -187,10 +192,12 @@
           "_styles": {
             "H3": {
               "text-align": "left",
-              "color": "#000000"
+              "color": "#c1c1c1",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "H2": {
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "_anchor": "msg-box1-3",
@@ -200,7 +207,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fac51c",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
