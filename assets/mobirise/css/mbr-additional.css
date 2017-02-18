@@ -6,7 +6,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -487,23 +486,12 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header5-1 .mbr-section-title {
-  color: #cccccc;
-  font-family: 'Raleway', sans-serif;
-  font-size: 72px;
-}
-#header5-1 .mbr-section-lead {
-  color: #c1c1c1;
-  font-size: 18px;
-  text-align: left;
-}
-#msg-box1-3 H3 {
-  text-align: left;
+#header5-7 .mbr-section-title {
   color: #c1c1c1;
   font-family: 'Raleway', sans-serif;
 }
-#msg-box1-3 H2 {
-  color: #efefef;
+#header5-7 .mbr-section-lead {
+  color: #9c9a9a;
 }
 #contacts3-5 P {
   color: #efefef;
