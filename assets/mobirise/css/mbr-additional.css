@@ -500,9 +500,11 @@ h6,
 }
 #contacts3-5 P {
   color: #efefef;
+  font-size: 16px;
 }
 #contacts3-5 .list-group-text {
   color: #ffffff;
+  font-size: 16px;
 }
 #contacts3-5 H4 {
   color: #000000;

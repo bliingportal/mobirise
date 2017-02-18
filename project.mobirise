@@ -374,10 +374,12 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "_styles": {
             "P": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             ".list-group-text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             "H4": {
               "color": "#000000"
