@@ -486,6 +486,10 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#footer1-2 P {
+  text-align: right;
+  font-size: 16px;
+}
 #header5-7 .mbr-section-title {
   color: #c1c1c1;
   font-family: 'Raleway', sans-serif;

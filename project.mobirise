@@ -139,7 +139,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Bliing would like to thank Mobirise for the use of their software. Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_inherit": "header1",
