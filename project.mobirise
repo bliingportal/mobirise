@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f28281",
+        "primaryColor": "#000000",
         "secondaryColor": "#f28281",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -275,20 +275,20 @@
           "_name": "contacts3",
           "_anchor": "contacts3-5",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fac51c",
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.1",
+            "overlayColor": "#28324e"
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/portal-io-265x251.png",
+              "src": "@PROJECT_PATH@/assets/images/portal-io-footer-logo-wh-265x106.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -303,40 +303,46 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "Bliing is produced in the USA by j3Web Design LLC. We appreciate your feedback. If you have any questions or concerns please contact us. Thanks!",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "48",
+              "color": "#ffffff"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "Mobile: 651-301-0324",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "48",
+              "color": "#ffffff"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "Red Wing MN USA",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
               "name": "envelope",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "size": "48",
+              "color": "#ffffff"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text4": "<p><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-success\">hello.bliingportal@zoho.com</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Contacts</strong><br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "hello.bliingportal@zoho.com",
@@ -346,7 +352,7 @@
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -365,7 +371,24 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            },
+            ".list-group-text": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000",
+              "font-size": "18px"
+            }
+          }
         }
       ]
     }
