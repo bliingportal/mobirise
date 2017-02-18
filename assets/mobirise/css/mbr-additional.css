@@ -484,11 +484,15 @@ h6,
   background-color: #ffffff;
 }
 #header5-1 .mbr-section-title {
-  color: #f28281;
+  color: #fac51c;
 }
 #header5-1 .mbr-section-lead {
-  color: #f28281;
+  color: #fac51c;
 }
 #msg-box1-3 H3 {
   text-align: left;
+  color: #000000;
+}
+#msg-box1-3 H2 {
+  color: #000000;
 }
