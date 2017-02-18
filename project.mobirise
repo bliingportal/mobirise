@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "blog.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -210,7 +210,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#fac51c",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -407,7 +407,7 @@
           "text4": "<p><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-success\">hello.bliingportal@zoho.com</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br><br>",
+          "text6": "",
           "form": {
             "title": "MESSAGE",
             "action": "hello.bliingportal@zoho.com",
@@ -760,7 +760,7 @@
           "text4": "<p><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-success\">hello.bliingportal@zoho.com</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br><br>",
+          "text6": "",
           "form": {
             "title": "MESSAGE",
             "action": "hello.bliingportal@zoho.com",
