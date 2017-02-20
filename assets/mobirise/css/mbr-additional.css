@@ -1,8 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 
 
 
@@ -430,19 +428,19 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -452,22 +450,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #b4322b;
+  background: #e6e6e6;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #ce3c35!important;
+  background: #f7f7f7!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #d14841;
+  background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -489,7 +487,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #menu-0 .btn {
   font-family: 'Lato', sans-serif;
@@ -518,117 +516,6 @@ h6,
   color: #000000;
 }
 #contacts3-5 STRONG {
-  font-family: 'Lato', sans-serif;
-  color: #000000;
-  font-size: 18px;
-}
-
-
-#footer1-b P {
-  text-align: right;
-  font-size: 16px;
-}
-#ext_menu-o .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-o .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-o .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-o .close-icon::before,
-#ext_menu-o .close-icon::after {
-  background-color: #000000;
-}
-#ext_menu-o .link,
-#ext_menu-o .dropdown-item {
-  color: #000000;
-  font-family: 'Arimo', sans-serif;
-}
-#ext_menu-o .link {
-  font-size: 0.75rem;
-}
-#ext_menu-o .dropdown-item,
-#ext_menu-o .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-o .link:hover,
-#ext_menu-o .dropdown-item:hover,
-#ext_menu-o .link:focus,
-#ext_menu-o .dropdown-item:focus {
-  color: #000000;
-}
-#ext_menu-o .link[aria-expanded="true"],
-#ext_menu-o .dropdown-menu {
-  background: #deaa05;
-}
-#ext_menu-o .nav-dropdown-sm .link:focus,
-#ext_menu-o .nav-dropdown-sm .link:hover,
-#ext_menu-o .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-o .nav-dropdown-sm .dropdown-item:hover {
-  background: #fac10d!important;
-}
-#ext_menu-o .navbar,
-#ext_menu-o .nav-dropdown-sm,
-#ext_menu-o .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-o .nav-dropdown-sm .dropdown-menu {
-  background: #fac51c;
-}
-#ext_menu-o .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#ext_menu-o .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-o .bg-color.transparent.opened .link:hover,
-#ext_menu-o .bg-color.transparent.opened .link:focus {
-  color: #000000;
-}
-#ext_menu-o .link[aria-expanded="true"],
-#ext_menu-o .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
-}
-#header1-n .mbr-section-title {
-  text-align: left;
-}
-#header1-n .mbr-section-lead {
-  text-align: left;
-}
-#features1-l .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #000000;
-}
-#features1-l .mbr-cards-col:nth-child(even) .card-title {
-  color: #ffffff;
-}
-#features1-l .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #cccccc;
-}
-#features1-l .mbr-cards-col:nth-child(even) .card-text {
-  color: #ffffff;
-}
-#features1-l .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #efefef;
-}
-#form2-g .mbr-section-title {
-  color: #000000;
-}
-#form2-g .mbr-section-subtitle {
-  color: #232323;
-}
-#contacts3-c P {
-  color: #efefef;
-  font-size: 16px;
-}
-#contacts3-c .list-group-text {
-  color: #ffffff;
-  font-size: 16px;
-}
-#contacts3-c H4 {
-  color: #000000;
-}
-#contacts3-c STRONG {
   font-family: 'Lato', sans-serif;
   color: #000000;
   font-size: 18px;
