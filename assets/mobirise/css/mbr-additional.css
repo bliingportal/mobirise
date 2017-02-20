@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -503,6 +504,16 @@ h6,
 }
 #header5-7 .mbr-section-lead {
   color: #9c9a9a;
+}
+#header5-7 .mbr-section-lead SPAN {
+  font-size: 18px;
+}
+#header5-12 .mbr-section-title {
+  color: #000;
+  font-family: 'Lato', sans-serif;
+}
+#header5-12 .mbr-section-lead {
+  color: #000000;
 }
 #contacts3-5 P {
   color: #efefef;

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 38,
+    "uniqCompNum": 39,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/portal-io-footer-logo-wh-1-265x106-128x51.png",
@@ -124,10 +124,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/mylogo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -136,7 +139,6 @@
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
               "size": "42",
-              "active": true,
               "newWindow": false
             }
           },
@@ -176,6 +178,9 @@
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -205,6 +210,46 @@
           "title": "bliing<br>",
           "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">www.bliingportal.github.io</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">hello.bliiinpportal@zoho.com</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-12",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "SOLID COLOR INTRO",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
           "_tags": [
