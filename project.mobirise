@@ -172,7 +172,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#c1c1c1",
+              "color": "#7e9b9f",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
@@ -180,7 +180,8 @@
               "color": "#9c9a9a"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#ffffff"
             }
           },
           "_tags": [
