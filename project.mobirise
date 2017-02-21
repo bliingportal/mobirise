@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -106,7 +106,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Raleway",
@@ -172,7 +172,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#7e9b9f",
+              "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
@@ -193,7 +193,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/coffeebeans-2000x1333.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -201,8 +201,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
@@ -216,12 +216,12 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#7e9b9f",
+              "color": "#000000",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".mbr-section-lead": {
-              "color": "#7e9b9f"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -234,7 +234,7 @@
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -250,7 +250,7 @@
           },
           "title": "Welcome to Bliing...",
           "text": "In this edition:<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">enter site</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">enter site</a>"
         },
         {
           "_tags": [
@@ -369,7 +369,7 @@
               "color": "#ffffff"
             },
             "H4": {
-              "color": "#7e9b9f"
+              "color": "#faaf40"
             },
             "P": {
               "color": "#9c9a9a"
@@ -426,12 +426,12 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/coffeebeans-2000x1333.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#28324e"
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000"
           },
           "logo": {
             "image": {
@@ -597,7 +597,7 @@
           "_name": "menu",
           "_anchor": "menu-13",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Raleway",
@@ -917,12 +917,12 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/coffeebeans-2000x1333.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#28324e"
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000"
           },
           "logo": {
             "image": {
