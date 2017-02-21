@@ -717,8 +717,8 @@
           "_name": "header3",
           "_anchor": "header3-1b",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgColor": "#fff",
             "showMeta": true
           },
