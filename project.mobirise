@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#648286"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#759498!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#7e9b9f"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -106,7 +106,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "fontSize": "0.95",
             "fontName": {
               "name": "Raleway",
@@ -194,7 +194,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/coffeebeans-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -260,7 +260,7 @@
           "_name": "features3",
           "_styles": {
             "H5": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "H4": {
               "color": "#000000"
@@ -276,7 +276,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -427,7 +427,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/coffeebeans-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "overlay": true,
@@ -598,7 +598,7 @@
           "_name": "menu",
           "_anchor": "menu-13",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "fontSize": "0.95",
             "fontName": {
               "name": "Raleway",
@@ -919,7 +919,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/coffeebeans-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "overlay": true,
