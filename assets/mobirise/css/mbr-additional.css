@@ -544,3 +544,130 @@ h6,
   color: #000000;
   font-size: 18px;
 }
+
+
+
+
+
+#menu-13 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-13 .navbar-caption {
+  color: #ffffff;
+}
+#menu-13 .navbar-toggler {
+  color: #000000;
+}
+#menu-13 .link,
+#menu-13 .dropdown-item {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#menu-13 .link {
+  font-size: 0.95rem;
+}
+#menu-13 .dropdown-item,
+#menu-13 .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-13 .link:hover,
+#menu-13 .dropdown-item:hover,
+#menu-13 .link:focus,
+#menu-13 .dropdown-item:focus {
+  color: #000000;
+}
+#menu-13 .link[aria-expanded="true"],
+#menu-13 .dropdown-menu {
+  background: #648286;
+}
+#menu-13 .nav-dropdown-sm .link:focus,
+#menu-13 .nav-dropdown-sm .link:hover,
+#menu-13 .nav-dropdown-sm .dropdown-item:focus,
+#menu-13 .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#menu-13 .navbar,
+#menu-13 .nav-dropdown-sm,
+#menu-13 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-13 .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#menu-13 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-13 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-13 .bg-color.transparent.opened .link:hover,
+#menu-13 .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#menu-13 .link[aria-expanded="true"],
+#menu-13 .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#menu-13.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-13 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-13 .close-icon::before,
+#menu-13 .close-icon::after {
+  background-color: #000000;
+}
+#menu-13 .btn {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+}
+#footer1-14 P {
+  text-align: right;
+  font-size: 16px;
+}
+#header5-15 .mbr-section-title {
+  color: #7e9b9f;
+  font-family: 'Raleway', sans-serif;
+}
+#header5-15 .mbr-section-lead {
+  color: #9c9a9a;
+}
+#header5-15 .mbr-section-lead SPAN {
+  font-size: 18px;
+  color: #ffffff;
+}
+#header5-16 .mbr-section-title {
+  color: #7e9b9f;
+  font-family: 'Lato', sans-serif;
+}
+#header5-16 .mbr-section-lead {
+  color: #7e9b9f;
+}
+#features3-17 H5 {
+  color: #ffffff;
+}
+#features3-17 H4 {
+  color: #7e9b9f;
+}
+#features3-17 P {
+  color: #9c9a9a;
+}
+#content7-18 P {
+  color: #c1c1c1;
+}
+#contacts3-19 P {
+  color: #efefef;
+  font-size: 16px;
+}
+#contacts3-19 .list-group-text {
+  color: #ffffff;
+  font-size: 16px;
+}
+#contacts3-19 H4 {
+  color: #000000;
+}
+#contacts3-19 STRONG {
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+  font-size: 18px;
+}
