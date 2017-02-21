@@ -150,7 +150,8 @@
           "_styles": {
             "P": {
               "text-align": "right",
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#000000"
             }
           },
           "_anchor": "footer1-2",
@@ -160,13 +161,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Bliing would like to thank Mobirise for the use of their software. Copyright (c) 2016 Mobirise."
+          "text": "Copyright (C) Mobirise&nbsp;"
         },
         {
           "_inherit": "header1",
@@ -264,7 +265,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -369,10 +370,10 @@
               "color": "#ffffff"
             },
             "H4": {
-              "color": "#faaf40"
+              "color": "#000000"
             },
             "P": {
-              "color": "#9c9a9a"
+              "color": "#000000"
             }
           }
         },
@@ -385,14 +386,14 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#ffffff"
           },
           "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "_styles": {
             "P": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             }
           }
         },
@@ -641,7 +642,8 @@
           "_styles": {
             "P": {
               "text-align": "right",
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#000000"
             }
           },
           "_anchor": "footer1-14",
@@ -651,13 +653,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Bliing would like to thank Mobirise for the use of their software. Copyright (c) 2016 Mobirise."
+          "text": "Copyright (C) Mobirise&nbsp;"
         },
         {
           "_inherit": "header1",

@@ -497,6 +497,7 @@ h6,
 #footer1-2 P {
   text-align: right;
   font-size: 16px;
+  color: #000000;
 }
 #header5-7 .mbr-section-title {
   color: #ffffff;
@@ -520,13 +521,13 @@ h6,
   color: #ffffff;
 }
 #features3-8 H4 {
-  color: #faaf40;
+  color: #000000;
 }
 #features3-8 P {
-  color: #9c9a9a;
+  color: #000000;
 }
 #content7-9 P {
-  color: #c1c1c1;
+  color: #000000;
 }
 #contacts3-5 P {
   color: #efefef;
@@ -624,6 +625,7 @@ h6,
 #footer1-14 P {
   text-align: right;
   font-size: 16px;
+  color: #000000;
 }
 #header5-15 .mbr-section-title {
   color: #7e9b9f;
