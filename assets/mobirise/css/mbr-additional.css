@@ -510,14 +510,23 @@ h6,
   color: #ffffff;
 }
 #header5-12 .mbr-section-title {
-  color: #000;
+  color: #7e9b9f;
   font-family: 'Lato', sans-serif;
 }
 #header5-12 .mbr-section-lead {
-  color: #000000;
+  color: #7e9b9f;
 }
 #features3-8 H5 {
   color: #ffffff;
+}
+#features3-8 H4 {
+  color: #7e9b9f;
+}
+#features3-8 P {
+  color: #9c9a9a;
+}
+#content7-9 P {
+  color: #c1c1c1;
 }
 #contacts3-5 P {
   color: #efefef;
