@@ -549,7 +549,6 @@ h6,
 
 
 
-
 #menu-13 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -638,21 +637,9 @@ h6,
   font-size: 18px;
   color: #ffffff;
 }
-#header5-16 .mbr-section-title {
-  color: #7e9b9f;
-  font-family: 'Lato', sans-serif;
-}
-#header5-16 .mbr-section-lead {
-  color: #7e9b9f;
-}
-#features3-17 H5 {
-  color: #ffffff;
-}
-#features3-17 H4 {
-  color: #7e9b9f;
-}
-#features3-17 P {
-  color: #9c9a9a;
+#header3-1b .mbr-section-title,
+#header3-1b .mbr-section-subtitle {
+  text-align: center;
 }
 #content7-18 P {
   color: #c1c1c1;
