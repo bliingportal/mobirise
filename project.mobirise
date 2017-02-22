@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "blog.html",
+    "currentPage": "index.html",
     "name": "Bliing | Home",
     "theme": {
       "name": "mobirise3",
@@ -222,7 +222,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".mbr-section-lead": {
-              "color": "#000000"
+              "color": "#7e9b9f"
             }
           },
           "_tags": [
@@ -235,7 +235,7 @@
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -249,9 +249,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Welcome to Bliing...",
+          "title": "",
           "text": "In this edition:<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">enter site</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">enter site</a>"
         },
         {
           "_tags": [
