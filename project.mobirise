@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "contact.html",
     "name": "Bliing | Home",
     "theme": {
       "name": "mobirise3",
@@ -1005,10 +1005,10 @@
         }
       ]
     },
-    "page2.html": {
+    "contact.html": {
       "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description"
+        "title": "Bliing | ContactUS",
+        "meta_descr": "Website Contact Page"
       },
       "components": [
         {
