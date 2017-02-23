@@ -545,6 +545,12 @@ h6,
   color: #000000;
   font-size: 18px;
 }
+#header5-1c .mbr-section-title {
+  color: #000;
+}
+#header5-1c .mbr-section-lead {
+  color: #9c9a9a;
+}
 
 
 
@@ -643,6 +649,104 @@ h6,
 }
 #content7-18 P {
   color: #c1c1c1;
+}
+#contacts3-19 P {
+  color: #efefef;
+  font-size: 16px;
+}
+#contacts3-19 .list-group-text {
+  color: #ffffff;
+  font-size: 16px;
+}
+#contacts3-19 H4 {
+  color: #000000;
+}
+#contacts3-19 STRONG {
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+  font-size: 18px;
+}
+
+
+
+#menu-1d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1d .navbar-caption {
+  color: #ffffff;
+}
+#menu-1d .navbar-toggler {
+  color: #000000;
+}
+#menu-1d .link,
+#menu-1d .dropdown-item {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#menu-1d .link {
+  font-size: 0.95rem;
+}
+#menu-1d .dropdown-item,
+#menu-1d .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-1d .link:hover,
+#menu-1d .dropdown-item:hover,
+#menu-1d .link:focus,
+#menu-1d .dropdown-item:focus {
+  color: #000000;
+}
+#menu-1d .link[aria-expanded="true"],
+#menu-1d .dropdown-menu {
+  background: #648286;
+}
+#menu-1d .nav-dropdown-sm .link:focus,
+#menu-1d .nav-dropdown-sm .link:hover,
+#menu-1d .nav-dropdown-sm .dropdown-item:focus,
+#menu-1d .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#menu-1d .navbar,
+#menu-1d .nav-dropdown-sm,
+#menu-1d .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1d .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#menu-1d .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-1d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1d .bg-color.transparent.opened .link:hover,
+#menu-1d .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#menu-1d .link[aria-expanded="true"],
+#menu-1d .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#menu-1d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1d .close-icon::before,
+#menu-1d .close-icon::after {
+  background-color: #000000;
+}
+#menu-1d .btn {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+}
+#header5-1n .mbr-section-title {
+  color: #7e9b9f;
+}
+#header5-1n .mbr-section-lead {
+  color: #ffffff;
+  font-size: 22px;
 }
 #contacts3-19 P {
   color: #efefef;
