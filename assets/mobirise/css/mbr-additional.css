@@ -500,7 +500,7 @@ h6,
   color: #000000;
 }
 #header5-7 .mbr-section-title {
-  color: #ffffff;
+  color: #7e9b9f;
   font-family: 'Raleway', sans-serif;
 }
 #header5-7 .mbr-section-lead {
@@ -510,21 +510,27 @@ h6,
   font-size: 18px;
   color: #ffffff;
 }
+#header5-1o .mbr-section-title {
+  color: #7e9b9f;
+}
+#header5-1o .mbr-section-lead {
+  color: #9c9a9a;
+}
 #header5-12 .mbr-section-title {
   color: #000000;
   font-family: 'Lato', sans-serif;
 }
 #header5-12 .mbr-section-lead {
-  color: #7e9b9f;
+  color: #90a878;
 }
 #features3-8 H5 {
-  color: #000000;
+  color: #efefef;
 }
 #features3-8 H4 {
-  color: #000000;
+  color: #efefef;
 }
 #features3-8 P {
-  color: #000000;
+  color: #efefef;
 }
 #content7-9 P {
   color: #000000;
