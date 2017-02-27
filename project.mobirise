@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "Bliing | Home",
     "theme": {
       "name": "mobirise3",
@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -106,7 +106,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Raleway",
@@ -115,7 +115,7 @@
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -149,17 +149,20 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#7e9b9f",
+              "color": "#000000",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "72px"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#000000"
             },
             ".mbr-section-lead SPAN": {
               "font-size": "20px",
               "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -171,14 +174,14 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1876.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.3",
             "overlayColor": "#000000",
             "contentAlign": "left",
@@ -186,8 +189,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "bliing<br>",
-          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>home gallery video links contact<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">http://bliingportal.github.io</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
+          "title": "<br><span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">bliing</span><br>",
+          "text": "home gallery video links contact<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">http://bliingportal.github.io</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
@@ -537,10 +540,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#7e9b9f"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#7e9b9f",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-family": "'Raleway', sans-serif"
             },
@@ -554,16 +557,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#7e9b9f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -583,7 +586,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#7e9b9f"
             },
             ".btn": {
               "font-family": "'Lato', sans-serif",
@@ -594,14 +597,14 @@
           "_name": "menu",
           "_anchor": "menu-37",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -659,7 +662,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -674,8 +677,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "bliing<br>",
-          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>home gallery video links contact<br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>Homepage<br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bliing<br></p>",
+          "text": "<p><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;home gallery video links contact<br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>Homepage<br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
@@ -1082,14 +1085,14 @@
           "_name": "menu",
           "_anchor": "menu-3d",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1570,14 +1573,14 @@
           "_name": "menu",
           "_anchor": "menu-3j",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -2058,14 +2061,14 @@
           "_name": "menu",
           "_anchor": "menu-3p",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,

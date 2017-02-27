@@ -452,19 +452,19 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #648286;
+  background: #e6e6e6;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #759498!important;
+  background: #f7f7f7!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #7e9b9f;
+  background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
   color: #000000;
@@ -496,16 +496,19 @@ h6,
   font-size: 14px;
 }
 #header5-7 .mbr-section-title {
-  color: #7e9b9f;
+  color: #000000;
   font-family: 'Open Sans', sans-serif;
   font-size: 72px;
 }
 #header5-7 .mbr-section-lead {
-  color: #9c9a9a;
+  color: #000000;
 }
 #header5-7 .mbr-section-lead SPAN {
   font-size: 20px;
   color: #ffffff;
+}
+#header5-7 .mbr-section-title SPAN {
+  color: #000000;
 }
 #header5-1o .mbr-section-title {
   color: #faaf40;
@@ -558,11 +561,11 @@ h6,
   color: #ffffff;
 }
 #menu-37 .navbar-toggler {
-  color: #000000;
+  color: #7e9b9f;
 }
 #menu-37 .link,
 #menu-37 .dropdown-item {
-  color: #000000;
+  color: #7e9b9f;
   font-family: 'Raleway', sans-serif;
 }
 #menu-37 .link {
@@ -580,22 +583,22 @@ h6,
 }
 #menu-37 .link[aria-expanded="true"],
 #menu-37 .dropdown-menu {
-  background: #648286;
+  background: #000000;
 }
 #menu-37 .nav-dropdown-sm .link:focus,
 #menu-37 .nav-dropdown-sm .link:hover,
 #menu-37 .nav-dropdown-sm .dropdown-item:focus,
 #menu-37 .nav-dropdown-sm .dropdown-item:hover {
-  background: #759498!important;
+  background: #000000!important;
 }
 #menu-37 .navbar,
 #menu-37 .nav-dropdown-sm,
 #menu-37 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-37 .nav-dropdown-sm .dropdown-menu {
-  background: #7e9b9f;
+  background: #000000;
 }
 #menu-37 .bg-color.transparent .link {
-  color: #000000;
+  color: #7e9b9f;
   transition: none;
 }
 #menu-37 .bg-color.transparent.opened .link {
@@ -617,7 +620,7 @@ h6,
 }
 #menu-37 .close-icon::before,
 #menu-37 .close-icon::after {
-  background-color: #000000;
+  background-color: #7e9b9f;
 }
 #menu-37 .btn {
   font-family: 'Lato', sans-serif;
