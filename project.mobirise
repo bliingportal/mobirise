@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 9,
+    "uniqCompNum": 11,
     "versionPublish": "3.9.2",
     "publishType": "github"
   },
@@ -154,8 +154,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Welcome",
-          "text": "to our site. Spring Training will be coming down soon for the Minnesota Twins, and in honor of them, we decided to feature Joe Mauer on the mound. Really can't wait for the festivities to begin...<br><br>Inside:<br>National Eagle Center:&nbsp;",
+          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">Welcome</span><br>",
+          "text": "http://www.bliingportal.github.io/online<br><br>This is&nbsp;Grand Portage, an unorganized territory in Cook County, Minnesota, on Lake Superior, at the northeast corner of the state near the border with northwestern Ontario. The population was 565 at the 2010 census. The adjacent Grand Portage National Monument designated a National Monument in 1958, lies entirely within the boundaries of the Grand Portage Ojibwe Indian Reservation, the reconstructed depot celebrates fur trade and Ojibwe lifeways. The British North West Company built its inland headquarters at Grand Portage; the post was active until 1802.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-title": {
@@ -175,8 +175,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -202,7 +202,12 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-2",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "content7-a",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -210,12 +215,7 @@
           },
           "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
           "_styles": {
