@@ -256,8 +256,8 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-7",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
